@@ -1,0 +1,23 @@
+{
+  "name": "talk-2014-osbridge",
+  "version": "0.0.0",
+  "description": "talk-2014-osbridge ==================",
+  "main": "index.js",
+  "scripts": {
+    "start": "boogaloo",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jden/talk-2014-osbridge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jden/talk-2014-osbridge/issues"
+  },
+  "homepage": "https://github.com/jden/talk-2014-osbridge",
+  "devDependencies": {
+    "boogaloo": "^0.2.0"
+  }
+}
